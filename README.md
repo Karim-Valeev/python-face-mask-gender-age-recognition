@@ -1,4 +1,4 @@
-Together with [Alexander](https://github.com/YODAXYZ/) and [Ruslan](https://github.com/polyarniik), we trained the models and made an application that can recognize whether a person is wearing a medical mask or not. And if not worn, then recognize his gender and age.
+### Together with [Alexander](https://github.com/YODAXYZ/) and [Ruslan](https://github.com/polyarniik), we trained the models and made an application that can recognize whether a person is wearing a medical mask or not. And if not worn, then recognize his gender and age.
 
 It was a very interesting experience and I took a look at technologies such as OpenCV, pandas, numpy, matplotlib, tensorflow, keras, sklearn
 
